@@ -1,0 +1,27 @@
+/* hello, this is your nav stying homie*/
+.nav-link{
+    font-size: small;
+    padding: 10px 20px;
+    margin-right: 3em;
+}
+
+/* home styling*/
+h1 {
+    font-size: 6rem;
+    text-align: center;
+}
+
+#tagline {
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(0, 162, 255);
+}
+
+/* Projects Styling */
+.carusel-caption {
+    color: black
+}
+
+ion-icon {
+    font-size: 64px;
+}
